@@ -2,7 +2,7 @@
 
 Perkenalkan nama saya **Adinda Ayu Azzahra**.\
 Saya seorang **Mahasiswa** yang sedang menempuh pendidikan Strata 1 Program Studi Teknik Informatika di Universitas Pancasila.  
-Saya sedang mengikuti Program Studi Independen Bersertifikat di [Dicoding](https://www.dicoding.com/).\
+Saya sedang mengikuti Program Studi Independen Bersertifikat (SIB Batch 2) di [Dicoding](https://www.dicoding.com/).
 
 
 ### Github Statistik
