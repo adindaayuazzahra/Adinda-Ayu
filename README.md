@@ -15,7 +15,7 @@ Saya sedang mengikuti Program Studi Independen Bersertifikat (SIB Batch 2) di [D
 
 ### 🔍 You Can Find Me at 
 <p>
-  <a href="www.linkedin.com/in/adinda-ayu-azzahra-06354a231" target="_blank">
+  <a href="https://www.linkedin.com/in/adinda-ayu-azzahra-06354a231" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a> 
   <a href="https://www.instagram.com/adindayzhr/" target="_blank">
