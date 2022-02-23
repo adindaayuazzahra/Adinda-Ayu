@@ -8,7 +8,7 @@ Saya sedang mengikuti Program Studi Independen Bersertifikat (SIB Batch 2) di [D
 ### Github Statistik
 <p align="left">
   <a href="https://github.com/adindaayuazzahra">
-    <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=adindaayuazzahra&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=adindaayuazzahra&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
     <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adindaayuazzahra&layout=compact&langs_count=8&theme=buefy"/>
   </a>
 </p>
