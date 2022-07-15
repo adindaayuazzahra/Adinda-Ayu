@@ -1,8 +1,7 @@
-# Halo semua! 
+# Hello Everyone!
 
-Perkenalkan nama saya **Adinda Ayu Azzahra**.\
-Saya seorang **Mahasiswa** yang sedang menempuh pendidikan Strata 1 Program Studi Teknik Informatika di Universitas Pancasila.  
-Saya sedang mengikuti Program Studi Independen Bersertifikat (SIB Batch 2) di [Dicoding](https://www.dicoding.com/).
+My name is **Adinda Ayu Azzahra**.\I am a **Student** of the Informatics Engineering Study Program at Pancasila University.
+I am interested and am exploring mobile and web application programming on the Front-End section.
 
 
 ### Github Statistik
