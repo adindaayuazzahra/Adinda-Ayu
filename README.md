@@ -27,7 +27,7 @@ I am interested and am exploring mobile and web application programming on the F
 ### 🔍 You Can Find Me at 
 <p>
   <a href="mailto:adindaa48@gmail.com" target="_blank">
-    <img alt="mail" src="https://img.shields.io/badge/mail-%23EB343D.svg?&style=for-the-badge&logo=mail&logoColor=white" />
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23EB343D.svg?&style=for-the-badge&logo=Gmail&logoColor=white" />
   </a> 
   <a href="https://www.linkedin.com/in/adinda-ayu-azzahra-06354a231" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
