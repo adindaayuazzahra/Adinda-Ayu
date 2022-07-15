@@ -13,8 +13,10 @@ I am interested and am exploring mobile and web application programming on the F
 </p>
 
 ### Languages and Tools
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="22" height="22"/>
-<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="flutter" width="22" height="22"/>
+<p>
+<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"  width="25" height="25"/>
+<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"  width="25" height="25"/>
+  </p>
 
 ### 🔍 You Can Find Me at 
 <p>
