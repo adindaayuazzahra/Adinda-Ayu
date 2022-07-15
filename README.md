@@ -1,6 +1,6 @@
 # Hello Everyone!
 
-My name is **Adinda Ayu Azzahra**.\nI am a **Student** of the Informatics Engineering Study Program at Pancasila University.
+My name is **Adinda Ayu Azzahra**.\n I am a **Student** of the Informatics Engineering Study Program at Pancasila University.
 I am interested and am exploring mobile and web application programming on the Front-End section.
 
 
