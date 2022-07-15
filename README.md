@@ -14,9 +14,15 @@ I am interested and am exploring mobile and web application programming on the F
 
 ### Languages and Tools
 <p>
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"  width="25" height="25"/>
-<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"  width="25" height="25"/>
-  </p>
+  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"  width="25" height="25"/>
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"  width="25" height="25"/>
+  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"  width="25" height="25"/>
+  <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg"  width="25" height="25"/>
+  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"  width="25" height="25"/>
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"  width="25" height="25"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"  width="25" height="25"/>
+  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"  width="25" height="25"/>
+ </p>
 
 ### 🔍 You Can Find Me at 
 <p>
@@ -25,5 +31,8 @@ I am interested and am exploring mobile and web application programming on the F
   </a> 
   <a href="https://www.instagram.com/adindayzhr/" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+  </a> 
+   <a href="mailto:adindaa48@gmail.com" target="_blank">
+    <img alt="mail" src="https://img.shields.io/badge/mail-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a> 
 </p>
