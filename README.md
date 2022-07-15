@@ -1,4 +1,4 @@
-# Hello Everyone!
+# 👋Hello Everyone!
 
 My name is **Adinda Ayu Azzahra**. I am a **Student** of the Informatics Engineering Study Program at Pancasila University.
 I am interested and am exploring mobile and web application programming on the Front-End section.
