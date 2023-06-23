@@ -1,7 +1,7 @@
 # 👋Hello Everyone!
 
-My name is **Adinda Ayu Azzahra**. I am a **Student** of the Informatics Engineering Study Program at Pancasila University.
-I am interested and am exploring mobile and web application programming on the Front-End section.
+My name is **Adinda Ayu Azzahra**. Currently I am working as a junior fullstack web developer using laravel framework and MySQL database.
+I am interested and am exploring mobile and web application programming.
 
 
 ### Github Statistik
