@@ -29,9 +29,6 @@ I am interested and am exploring mobile and web application programming.
   <a href="mailto:adindaa48@gmail.com" target="_blank">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23EB343D.svg?&style=for-the-badge&logo=Gmail&logoColor=white" />
   </a> 
-  <a href="https://www.linkedin.com/in/adinda-ayu-azzahra-06354a231" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a> 
   <a href="https://www.instagram.com/adindayzhr/" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a> 
