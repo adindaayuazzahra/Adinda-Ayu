@@ -1,8 +1,6 @@
 # 👋Hello Everyone!
 
-My name is **Adinda Ayu Azzahra**. Currently I am working as a junior fullstack web developer using laravel framework and MySQL database.
-I am interested and am exploring mobile and web application programming.
-
+My name is * * Adinda Ayu Azzahra**. I am currently working as a junior full stack web developer using laravel framework and MySQL database. I also develop mobile apps with Flutter.
 
 ### Github Statistik
 <p align="left">
